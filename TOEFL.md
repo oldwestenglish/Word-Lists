@@ -1,31 +1,22 @@
  ### Word List for TOEFL
 
-1. Reef: 暗礁。源于14th Century rib，在碗里是rib(肋排)， 在水里
-是reef(暗礁)
-2. Husk: k->壳->果壳
-3. Seep: s->sh->渗透
-4. Disproportionate: dis-表否定->proportionate-> -ate表词性变化-
+Reef: 暗礁。源于14th Century rib，在碗里是rib(肋排)， 在水里是reef(暗礁)
+Husk: k->壳->果壳
+Seep: s->sh->渗透
+Disproportionate: dis-表否定->proportionate-> -ate表词性变化-
 >proportion->拆为 “pro”“por””tion” 看着就很成比例， ∴proportion是比例->+否 定+变词性=不“成比例”的
-5. President:“pre”(前面的)+ “sid”(坐)+“ent”(表人)=总统。 通假 的成分: 古英语里sit和sid是同一个词
-6. Strain: 使劲; 孙亮老师--哈利波特--回想起小说里描写哈利撅着屁 股使劲偷听， 用的就是strain， 留下深刻印象。
-7. Saucy: sauce-酱，调味汁; saucy 讨厌(酱放多了味重)， 挑逗 (辣酱放了有点小刺激); 谢强老师带学生排剧--pygmalion(卖花女)(萧伯 纳著) 后改编为奥黛丽·赫本主演电影《My fair lady》(窈窕淑女)--台词 :“Don’t you be so saucy!”(别这么讨人嫌)。谢老师对这个印象特别深刻， 所 以就记住了saucy的讨厌的意思。
-8. Stumble-摔跤，结巴。 孙亮老师想到第一部里面Neville 分院前紧 张摔跤， J.K.Rowling 用的就是stumble这个词; 古英语里stumble 和stammer 是一个词。 所以stumble的意思里有通假字的成分。
-9. Substitute--替补。 谢老师在给足球队做翻译的时候要填替补表， 教练换人的时候就会喊简称的“subs!”。 这样长时间的接触， 就有印象了。
-10. Depth:深度
-11. Vary:通differ。 Adj: various. 词源:diversify. 多种多样的。 跟 differ/different类似， 但更“假正经”，“高大上”，学术。
-12. Renown: nown->nom->name 名字， re->重复。 老提你名字->著 名。 用法上通famous， 但也是更正式的词。
+President:“pre”(前面的)+ “sid”(坐)+“ent”(表人)=总统。 通假 的成分: 古英语里sit和sid是同一个词
+Strain: 使劲; 孙亮老师--哈利波特--回想起小说里描写哈利撅着屁 股使劲偷听， 用的就是strain， 留下深刻印象。
+Saucy: sauce-酱，调味汁; saucy 讨厌(酱放多了味重)， 挑逗 (辣酱放了有点小刺激); 谢强老师带学生排剧--pygmalion(卖花女)(萧伯 纳著) 后改编为奥黛丽·赫本主演电影《My fair lady》(窈窕淑女)--台词 :“Don’t you be so saucy!”(别这么讨人嫌)。谢老师对这个印象特别深刻， 所 以就记住了saucy的讨厌的意思。
+Stumble-摔跤，结巴。 孙亮老师想到第一部里面Neville 分院前紧 张摔跤， J.K.Rowling 用的就是stumble这个词; 古英语里stumble 和stammer 是一个词。 所以stumble的意思里有通假字的成分。
+Substitute--替补。 谢老师在给足球队做翻译的时候要填替补表， 教练换人的时候就会喊简称的“subs!”。 这样长时间的接触， 就有印象了。
+Depth:深度
+Vary:通differ。 Adj: various. 词源:diversify. 多种多样的。 跟 differ/different类似， 但更“假正经”，“高大上”，学术。
+Renown: nown->nom->name 名字， re->重复。 老提你名字->著 名。 用法上通famous， 但也是更正式的词。
 
- 13. Delicious--tasty。 同上
-14. Obliterate: Ob->反向词，倒下，全部;liter--通假字，通letter; ate->词性转换。 没有一个字了->灭绝。
-有趣细节:
-现在领导都坐后面了， 如俞老板
-英语， 特别是口语中， t和d发音易混淆
-托福是能力考试， 不会太在乎语法。 同义词能用，敢用换着用就好。 单词背后都有一个个有趣的故事， 熟悉
-1. 长词分段记:词根， 词缀。 学生记词很多不记词性。 谢老师建议 背词可以先简单拆分(脱衣服)把词回归原型。这个时候如果还不会再去拆到 词根词缀(开肠破肚)。 慢慢来，耐心的分可以有效降低长词难度。
-2. 短词找原因。 孙亮老师--哈利波特+恐怖故事+神话故事;谢强老师 --Shakespeare
-3. 得有上下文: 对于多义词需要多组上下文。很多词会根据历史演变 而延伸出不同意思。有时候背的一个词但实际上背了8个词。 喜欢这些小的说 明文的同学可以通过托福的阅读， 听力来培养context.
-4. 拥抱假正经， 有的时候需要真的正经， 正式场合用词和平常口语 不同。
-单词实例:
+Delicious--tasty。 同上
+Obliterate: Ob->反向词，倒下，全部;liter--通假字，通letter; ate->词性转换。 没有一个字了->灭绝。
+
 1. Progressive: 进步的。 《中国合伙人》中带学生在肯德基背的第一
 个单词;pro->前进, gress-走， ive-形容词词尾 ∴一致+往前走=进步的;谢老师 建议， 先把作为形容词标志的-ive给分开， 记progress。 能简单记住Progress 的学生不少， 如果记不住， 那再拆成词根和词缀的pro+gress
 2. Participant:参与者。 participate in=take part in. 同上， 不用硬记 participant, 只要记住participate， 并认出预示名词词性，代表人的ant, 就好记 这个词了: 参加+名词(人)=参加者
@@ -95,10 +86,9 @@ List 3: 记词方法:
 13. Entitle:赋予，授权给某人。 title:标题或头衔。 en-给与。 entitle someone to do sth. 授权给某人做某事。
 14. Extinct:灭绝 ex--向外 tinct:刺 向外拔刺--灭绝 有趣细节
 Bode ill for sb in later times. 所以还是看上下文。 养着这些单词， 要跟单词变亲
-List 4: 记词方法
-单词实例
-1. Listless:无精打采的 不背单词(list)的日子怎么能幸福呢
-?List+less(没有)=无精打采
+
+
+1. Listless:无精打采的 不背单词(list)的日子怎么能幸福呢?List+less(没有)=无精打采
 2. Expertise: 专长 Expert(专家)+tise->专长。 法语词汇词尾标准发 音。
 3. Speckle:色斑，斑驳。 spec:小点。 Harry Potter在扫帚上飞的 很快以至于观众看他都只剩一个小点(spec)了。
 4. Gravity:重力，厚重。 源自拉丁语， 原来只有厚重的意思， 13世 纪后才加上重力的意思。 物理中 g=>gravity. 通 gravitation: 重力(偏学术) 5. Grave:墓碑， 同上， 有沉重意。 Hamlet回国的时候曾有段和被
@@ -116,11 +106,10 @@ List 4: 记词方法
 13. Glare:瞪视，怒视。 Harry potter里ron 和 Malfoy怒视彼此就用的 是glare。 但glare做名词也叫强烈的光。
 14. Punch: 击打， 拳击。 伦敦报纸上以漫画形式针砭时弊的段子也 叫punch。也作抨击。
 15. Satiric: 讽刺性的;satire 讽刺。原意水果拼盘， 后来是一本书， 讽刺时事的。
-16. Incessantly: 不停止地。 先去表否定的“in”， 表副词的“ly”。再去表 名词词尾的“ant”. 剩的cess, 很像“cease”， 停止。所以不+停(名词)+地=不断 地，不停止地
-有趣细节
-词尾多加一点可以让词更加厚重 有的词是输出性质的词，看样子就能基本猜这个词什么意思了。 相对于欧洲来说， 美国的发展初期， 没有太多贵族和平民的区别，阶 级间的壁垒没有那么高
+16. Incessantly: 不停止地。 先去表否定的“in”， 表副词的“ly”。再去表 名词词尾的“ant”. 剩的cess, 很像“cease”， 停止。所以不+停(名词)+地=不断地 不停止地
+
 英语里面g和ct是通假的
-学前班各个家长看法不同。 中国:孩子终于可以开始学习了;日本: 孩子可以开始融入社会了;美国:孩子要开始独立了
+
 List 5: 记词方法
 通过TPO原题总结来记词 单词实例
 1. Weird: 奇怪的。 从古英语: weird sisters 命运三姐妹， 分别管梳 理，纺织，剪裁命运的丝线。 又见莎士比亚的《Macbeth》(麦克白)中的 weird sisters, 更接近女巫(witches)的意思
@@ -134,8 +123,7 @@ List 5: 记词方法
  8. Inscribe:写，刻，铭记。 in(在.....里)+scribe(写)=刻，铭刻 ; 美索不达米亚就是用石板来记录， 就是用inscribe。
 9. Balky: 大量的。 balk曾经的是错误， 未耕种的土地。 现在主要记“ 障碍，畏缩”; bulk:大宗购买 词音，词义也相近。但根据时间发展， 各自演 变成了现在的意思
 10. Shrink:缩小， 畏缩。 联想wrinkle:皱纹。 Harry Potter第一部哈 利不愿意穿的毛衣就被他无意识的缩小(shrink)了
-有趣细节
-家长想参与进来十分欢迎， 但希望家长能对题有些了解以后再来参与 。 因为听不懂，看不懂就不会说，不会写， 所以现在口语和写作的部 分也是会很严的抽单词的辨识的。所以口语写作的分数有很大一部分受 到了单词的影响。
+
 多记点单词没坏处， 多记单词读的越顺。 顺畅阅读harry potter系列需 要10,000词汇量。
 List 6: 记词方法
 1. 可以通过看小说，那些重复出现的难词，不用必须懂具体意思， 但 看到/听到词能联想到一个具体的画面就可以了。如孙亮老师与Harry potter
@@ -154,7 +142,6 @@ List 6: 记词方法
  9. Soluble:可解决的,可溶的。Solution:溶液 原型: solve: 解决，解 开; dissolve: dis表apart, dissolve叫溶解的
 10. Stable: 稳定的。 st:表站立; Stable延伸为马厩， 马都站着， 所 以稳定;standing也有长远的，稳定的意思。
 11. Subject: 主题，主语，臣民，subject to 受制于某事。 以臣民这 个意思为主硬背就好
-12. Retrospective: retro(往回)+spec(看)+ive(形容词词尾)=回顾性的 有趣细节
-英美文学，要想通读英美文学小说， 需要起码9,000的词汇量， 这样才 能读的下去。
+12. Retrospective: retro(往回)+spec(看)+ive(形容词词尾)=回顾性的
+
 Plunged into: 被迫去做........
-孙亮老师去纽约住过一个downtown 的酒店， 结果是在曼哈顿最下面， 没什么人， 很冷清。
